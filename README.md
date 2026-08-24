@@ -21,3 +21,18 @@ The current test cases cover:
 - Password Reset
 - Invalid and incomplete inputs
 - Bug reporting
+
+##Test Case Status
+
+Test cases may have the following statuses:
+
+- Pass – The actual result matches the expected result.
+- Fail – The actual result does not match the expected result.
+
+## How to Open
+
+1. Click `Test Cases.xlsx`.
+2. Click **View raw** or **Download raw file**.
+3. Open the downloaded file using Microsoft Excel or another spreadsheet application.
+
+This repository will be updated as new test scenarios, test cases, and bugs are identified and tested.
