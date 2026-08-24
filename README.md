@@ -3,9 +3,9 @@
 This repository contains the test scenarios, test cases, and bug reports created for the system.
 
 ## Contents
-Test Scenarios – High-level scenarios covering the system's functionality.
-Test Cases – Detailed test cases with preconditions, test data, test step, expected results, actual results, and status.
-Bug Reports – Documentation of identified defects, including their description, expected result, actual result, severity, and priority.
+– Test Scenarios – High-level scenarios covering the system's functionality.
+– Test Cases – Detailed test cases with preconditions, test data, test step, expected results, actual results, and status.
+– Bug Reports – Documentation of identified defects, including their description, expected result, actual result, severity, and priority.
 
 ## Testing Coverage
 
