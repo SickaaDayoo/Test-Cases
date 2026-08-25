@@ -19,8 +19,10 @@ The current test cases cover:
 - Password masking
 - Forgot Password
 - Password Reset
-- Invalid and incomplete inputs
+- Invalid and incomplete validation
 - Bug reporting
+- Patient appointment Booking
+- OTP Verification
 
 ##Test Case Status
 
